@@ -1,0 +1,13 @@
+/home/kali/unik/oop/laba_1/laba_1/bin/Debug/netcoreapp3.1/laba_1
+/home/kali/unik/oop/laba_1/laba_1/bin/Debug/netcoreapp3.1/laba_1.deps.json
+/home/kali/unik/oop/laba_1/laba_1/bin/Debug/netcoreapp3.1/laba_1.runtimeconfig.json
+/home/kali/unik/oop/laba_1/laba_1/bin/Debug/netcoreapp3.1/laba_1.runtimeconfig.dev.json
+/home/kali/unik/oop/laba_1/laba_1/bin/Debug/netcoreapp3.1/laba_1.dll
+/home/kali/unik/oop/laba_1/laba_1/bin/Debug/netcoreapp3.1/laba_1.pdb
+/home/kali/unik/oop/laba_1/laba_1/obj/Debug/netcoreapp3.1/laba_1.csprojAssemblyReference.cache
+/home/kali/unik/oop/laba_1/laba_1/obj/Debug/netcoreapp3.1/laba_1.AssemblyInfoInputs.cache
+/home/kali/unik/oop/laba_1/laba_1/obj/Debug/netcoreapp3.1/laba_1.AssemblyInfo.cs
+/home/kali/unik/oop/laba_1/laba_1/obj/Debug/netcoreapp3.1/laba_1.csproj.CoreCompileInputs.cache
+/home/kali/unik/oop/laba_1/laba_1/obj/Debug/netcoreapp3.1/laba_1.dll
+/home/kali/unik/oop/laba_1/laba_1/obj/Debug/netcoreapp3.1/laba_1.pdb
+/home/kali/unik/oop/laba_1/laba_1/obj/Debug/netcoreapp3.1/laba_1.genruntimeconfig.cache

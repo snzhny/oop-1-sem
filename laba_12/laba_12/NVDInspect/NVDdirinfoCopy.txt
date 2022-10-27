@@ -1,0 +1,30 @@
+|Directories| [
+$RECYCLE.BIN
+Adobe After Effects
+Adobe Premiero Pro
+Arduino
+CLion 2022.2.3
+Counter-Strike 1.6 Russian
+for_vm
+games
+JetBrains Rider 2022.2.3
+KMPlayer
+KMPlayer 64X
+Men of War
+Photoshop
+PROJECTS
+PyCharm 2022.2.2
+qBittorrent
+SQL2019
+sqlServer
+ssms
+Steam
+System Volume Information
+Torrents
+unik
+VideoProject
+VirtualBox
+WebStorm 2022.2.2
+]
+|Files| [
+]

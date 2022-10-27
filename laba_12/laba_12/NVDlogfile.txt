@@ -1,0 +1,338 @@
+27.10.2022 2:56:37
+Free space on the disk D:\ - 319132065792 bytes 
+------------------------------
+27.10.2022 2:56:37
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+27.10.2022 2:56:37
+All drives information : 
+[
+Name - C:\,Total size - 107334320128,Free space - 24355405824 , Volume label - ]
+Name - D:\,Total size - 404105457664,Free space - 319132061696 , Volume label - ]
+]
+
+------------------------------
+27.10.2022 2:56:37
+Full path to the NVDlogfile.txt - D:\unik\oop\laba_12\laba_12\NVDlogfile.txt
+------------------------------
+27.10.2022 2:56:37
+[
+File name: NVDlogfile.txt
+Size: 12756 bytes
+File extension: .txt
+]
+
+------------------------------
+27.10.2022 2:56:37
+File NVDlogfile.txt : date of creation - 26.10.2022 20:52:20, date of last edit - 27.10.2022 2:56:37
+------------------------------
+27.10.2022 2:56:37
+Time of the directory creation - 29.09.2022 3:18:07
+------------------------------
+27.10.2022 2:56:37
+The number of files - 2
+------------------------------
+27.10.2022 2:56:37
+Number of subdirectories - 3
+------------------------------
+27.10.2022 2:56:37
+Parent Directory - D:\
+------------------------------
+27.10.2022 2:56:37
+File manager has inspected D:\
+------------------------------
+27.10.2022 2:56:37
+File manager has copied .cs files from D:\unik\oop\laba_12\laba_12\
+------------------------------
+27.10.2022 2:56:37
+File manager has archived files from D:\unik\oop\laba_12\laba_12\Archivetest and unarchived
+------------------------------
+27.10.2022 2:57:08
+Free space on the disk D:\ - 319132061696 bytes 
+------------------------------
+27.10.2022 2:57:08
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+27.10.2022 2:57:08
+All drives information : 
+[
+Name - C:\,Total size - 107334320128,Free space - 24345939968 , Volume label - ]
+Name - D:\,Total size - 404105457664,Free space - 319132061696 , Volume label - ]
+]
+
+------------------------------
+27.10.2022 2:57:08
+Full path to the NVDlogfile.txt - D:\unik\oop\laba_12\laba_12\NVDlogfile.txt
+------------------------------
+27.10.2022 2:57:08
+[
+File name: NVDlogfile.txt
+Size: 14285 bytes
+File extension: .txt
+]
+
+------------------------------
+27.10.2022 2:57:08
+File NVDlogfile.txt : date of creation - 26.10.2022 20:52:20, date of last edit - 27.10.2022 2:57:08
+------------------------------
+27.10.2022 2:57:08
+Time of the directory creation - 29.09.2022 3:18:07
+------------------------------
+27.10.2022 2:57:08
+The number of files - 2
+------------------------------
+27.10.2022 2:57:08
+Number of subdirectories - 3
+------------------------------
+27.10.2022 2:57:08
+Parent Directory - D:\
+------------------------------
+27.10.2022 2:57:08
+File manager has inspected D:\
+------------------------------
+27.10.2022 2:57:08
+File manager has copied .cs files from D:\unik\oop\laba_12\laba_12\
+------------------------------
+27.10.2022 2:57:08
+File manager has archived files from D:\unik\oop\laba_12\laba_12\Archivetest and unarchived
+------------------------------
+27.10.2022 3:00:36
+Free space on the disk D:\ - 319132061696 bytes 
+------------------------------
+27.10.2022 3:00:36
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+27.10.2022 3:00:36
+All drives information : 
+[
+Name - C:\,Total size - 107334320128,Free space - 24336359424 , Volume label - ]
+Name - D:\,Total size - 404105457664,Free space - 319132061696 , Volume label - ]
+]
+
+------------------------------
+27.10.2022 3:00:36
+Full path to the NVDlogfile.txt - D:\unik\oop\laba_12\laba_12\NVDlogfile.txt
+------------------------------
+27.10.2022 3:00:36
+[
+File name: NVDlogfile.txt
+Size: 15814 bytes
+File extension: .txt
+]
+
+------------------------------
+27.10.2022 3:00:36
+File NVDlogfile.txt : date of creation - 26.10.2022 20:52:20, date of last edit - 27.10.2022 3:00:36
+------------------------------
+27.10.2022 3:00:36
+Time of the directory creation - 29.09.2022 3:18:07
+------------------------------
+27.10.2022 3:00:36
+The number of files - 2
+------------------------------
+27.10.2022 3:00:36
+Number of subdirectories - 3
+------------------------------
+27.10.2022 3:00:36
+Parent Directory - D:\
+------------------------------
+27.10.2022 3:00:36
+File manager has inspected D:\
+------------------------------
+27.10.2022 3:00:36
+File manager has copied .cs files from D:\unik\oop\laba_12\laba_12\
+------------------------------
+27.10.2022 3:00:36
+File manager has archived files from D:\unik\oop\laba_12\laba_12\Archivetest and unarchived
+------------------------------
+27.10.2022 3:12:34
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+27.10.2022 3:12:34
+All drives information : 
+[
+Name - C:\,Total size - 107334320128,Free space - 24335142912 , Volume label - ]
+Name - D:\,Total size - 404105457664,Free space - 319132069888 , Volume label - ]
+]
+
+------------------------------
+27.10.2022 3:12:34
+Full path to the NVDlogfile.txt - D:\unik\oop\laba_12\laba_12\NVDlogfile.txt
+------------------------------
+27.10.2022 3:12:34
+[
+File name: NVDlogfile.txt
+Size: 5130 bytes
+File extension: .txt
+]
+
+------------------------------
+27.10.2022 3:12:34
+File NVDlogfile.txt : date of creation - 26.10.2022 20:52:20, date of last edit - 27.10.2022 3:12:34
+------------------------------
+27.10.2022 3:12:34
+Time of the directory creation - 29.09.2022 3:18:07
+------------------------------
+27.10.2022 3:12:34
+The number of files - 2
+------------------------------
+27.10.2022 3:12:34
+Number of subdirectories - 3
+------------------------------
+27.10.2022 3:12:34
+Parent Directory - D:\
+------------------------------
+27.10.2022 3:12:34
+File manager has inspected D:\
+------------------------------
+27.10.2022 3:12:34
+File manager has copied .cs files from D:\unik\oop\laba_12\laba_12\
+------------------------------
+27.10.2022 3:12:34
+File manager has archived files from D:\unik\oop\laba_12\laba_12\Archivetest and unarchived
+------------------------------
+
+27.10.2022 3:14:43
+Free space on the disk D:\ - 319132069888 bytes 
+------------------------------
+27.10.2022 3:14:43
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+27.10.2022 3:14:43
+All drives information : 
+[
+Name - C:\,Total size - 107334320128,Free space - 24335282176 , Volume label - ]
+Name - D:\,Total size - 404105457664,Free space - 319132069888 , Volume label - ]
+]
+
+------------------------------
+27.10.2022 3:14:43
+Full path to the NVDlogfile.txt - D:\unik\oop\laba_12\laba_12\NVDlogfile.txt
+------------------------------
+27.10.2022 3:14:43
+[
+File name: NVDlogfile.txt
+Size: 6546 bytes
+File extension: .txt
+]
+
+------------------------------
+27.10.2022 3:14:43
+File NVDlogfile.txt : date of creation - 26.10.2022 20:52:20, date of last edit - 27.10.2022 3:14:43
+------------------------------
+27.10.2022 3:14:43
+Time of the directory creation - 29.09.2022 3:18:07
+------------------------------
+27.10.2022 3:14:43
+The number of files - 2
+------------------------------
+27.10.2022 3:14:43
+Number of subdirectories - 3
+------------------------------
+27.10.2022 3:14:43
+Parent Directory - D:\
+------------------------------
+27.10.2022 3:14:43
+File manager has inspected D:\
+------------------------------
+27.10.2022 3:14:43
+File manager has copied .cs files from D:\unik\oop\laba_12\laba_12\
+------------------------------
+27.10.2022 3:14:43
+File manager has archived files from D:\unik\oop\laba_12\laba_12\Archivetest and unarchived
+------------------------------
+27.10.2022 3:15:22
+Free space on the disk D:\ - 319132069888 bytes 
+------------------------------
+27.10.2022 3:15:22
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+27.10.2022 3:15:22
+All drives information : 
+[
+Name - C:\,Total size - 107334320128,Free space - 24331939840 , Volume label - ]
+Name - D:\,Total size - 404105457664,Free space - 319132069888 , Volume label - ]
+]
+
+------------------------------
+27.10.2022 3:15:22
+Full path to the NVDlogfile.txt - D:\unik\oop\laba_12\laba_12\NVDlogfile.txt
+------------------------------
+27.10.2022 3:15:22
+[
+File name: NVDlogfile.txt
+Size: 8074 bytes
+File extension: .txt
+]
+
+------------------------------
+27.10.2022 3:15:22
+File NVDlogfile.txt : date of creation - 26.10.2022 20:52:20, date of last edit - 27.10.2022 3:15:22
+------------------------------
+27.10.2022 3:15:22
+Time of the directory creation - 29.09.2022 3:18:07
+------------------------------
+27.10.2022 3:15:22
+The number of files - 2
+------------------------------
+27.10.2022 3:15:22
+Number of subdirectories - 3
+------------------------------
+27.10.2022 3:15:22
+Parent Directory - D:\
+------------------------------
+27.10.2022 3:15:22
+File manager has inspected D:\
+------------------------------
+27.10.2022 3:15:22
+File manager has copied .cs files from D:\unik\oop\laba_12\laba_12\
+------------------------------
+27.10.2022 3:15:22
+File manager has archived files from D:\unik\oop\laba_12\laba_12\Archivetest and unarchived
+------------------------------
+27.10.2022 3:17:11
+Free space on the disk D:\ - 319132065792 bytes 
+------------------------------
+27.10.2022 3:17:11
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+27.10.2022 3:17:11
+All drives information : 
+[
+Name - C:\,Total size - 107334320128,Free space - 24333492224 , Volume label - ]
+Name - D:\,Total size - 404105457664,Free space - 319132065792 , Volume label - ]
+]
+
+------------------------------
+27.10.2022 3:17:11
+Full path to the NVDlogfile.txt - D:\unik\oop\laba_12\laba_12\NVDlogfile.txt
+------------------------------
+27.10.2022 3:17:11
+[
+File name: NVDlogfile.txt
+Size: 9602 bytes
+File extension: .txt
+]
+
+------------------------------
+27.10.2022 3:17:11
+File NVDlogfile.txt : date of creation - 26.10.2022 20:52:20, date of last edit - 27.10.2022 3:17:11
+------------------------------
+27.10.2022 3:17:11
+Time of the directory creation - 29.09.2022 3:18:07
+------------------------------
+27.10.2022 3:17:11
+The number of files - 2
+------------------------------
+27.10.2022 3:17:11
+Number of subdirectories - 3
+------------------------------
+27.10.2022 3:17:11
+Parent Directory - D:\
+------------------------------
+27.10.2022 3:17:11
+File manager has inspected D:\
+------------------------------
+27.10.2022 3:17:11
+File manager has copied .cs files from D:\unik\oop\laba_12\laba_12\
+------------------------------
